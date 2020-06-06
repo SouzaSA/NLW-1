@@ -80,7 +80,6 @@ const Details = () => {
       </View>
       <View style={styles.footer}>
         <RectButton style={styles.button} onPress={handleWhatsapp}>
-}>
           <FontAwesome name="whatsapp" size={20} color="#FFF"/>
           <Text style={styles.buttonText}>Whatsapp</Text>
         </RectButton>
